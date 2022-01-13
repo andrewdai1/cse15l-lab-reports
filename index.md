@@ -17,3 +17,6 @@ Text in my new file
 example
 1234
 ```
+
+[Link](google.com)
+
