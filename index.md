@@ -2,7 +2,7 @@ Text in my new file
 
 *these are in italics*
 # Example heading
-
+## small heading
 > Block quote
 
 
@@ -20,3 +20,6 @@ example
 
 [**example link**](https://www.google.com)
 
+* 123
+* 456
+* 789
