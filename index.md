@@ -18,5 +18,5 @@ example
 1234
 ```
 
-[Link](google.com)
+[**example link**](https://www.google.com)
 
