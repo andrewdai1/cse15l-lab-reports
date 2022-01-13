@@ -1,6 +1,8 @@
 Text in my new file
 
 *these are in italics*
+**bold text**
+
 # Example heading
 ## small heading
 > Block quote
@@ -17,6 +19,11 @@ Text in my new file
 example
 1234
 ```
+
+big horizontal line
+---
+
+'some code'
 
 [**example link**](https://www.google.com)
 
