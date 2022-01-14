@@ -25,3 +25,6 @@
 ![uploaded](https://github.com/andrewdai1/cse15l-lab-reports/blob/main/Week%202%20Lab%20Images/upload.png)
 
 5. Each time we use scp, it prompts a password. We can get an SSH key to speed up the uploading process. The command is `ssh-keygen`.
+![key created](https://github.com/andrewdai1/cse15l-lab-reports/blob/main/Week%202%20Lab%20Images/key.png)
+
+\
