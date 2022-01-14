@@ -1,7 +1,11 @@
-![Image](https://github.com/andrewdai1/cse15l-lab-reports/blob/main/Screenshot%202022-01-13%20141159.png)
+# CSE 15L Week 2 Lab Report
 
-[link to google](https://www.google.com)
+## Andrew Dai A16366706
+---
 
-[Lab Report 1](lab-report-1-week-2.html)
+1. **Installing VScode**
+- VScode should be free to download by anybody. You can go to their [site](https://code.visualstudio.com/) and click the "download" button. Then, click the relavant download button for your operating system (windows, mac, linux). The download then should be automatic.
+![VScode Download]()
 
-[Lab Report 1](https://andrewdai1.github.io/<your-lab-reports-repo>/lab-report-1-week-2.html)
+2. **Remotely Connecting**
+- You can remotely connect to the ieng6 server using the ssh command in your terminal. 
