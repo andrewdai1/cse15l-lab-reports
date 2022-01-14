@@ -27,4 +27,6 @@
 5. Each time we use scp, it prompts a password. We can get an SSH key to speed up the uploading process. The command is `ssh-keygen`.
 ![key created](https://github.com/andrewdai1/cse15l-lab-reports/blob/main/Week%202%20Lab%20Images/key.png)
 
-\
+6. There are a few ways to make remote running better and easier. For example, you can run multiple commands at the same time by separating them with semicolons.
+
+![javac and java](https://github.com/andrewdai1/cse15l-lab-reports/blob/main/Week%202%20Lab%20Images/2commands.png)
