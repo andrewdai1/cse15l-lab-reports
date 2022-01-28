@@ -38,7 +38,7 @@ the link was an image and not an actual link.
 ## Code Change 3
 **Bug fix 3:**
 ![bugfix3](bugfix3.png)
-[Link to test file 2](https://github.com/andrewdai1/cse15l-lab-reports/blob/main/test-file4.md)
+[Link to test file 3](https://github.com/andrewdai1/cse15l-lab-reports/blob/main/test-file4.md)
 
 **Error output:**
 ![bug3](bug3.png)
