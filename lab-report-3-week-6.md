@@ -8,13 +8,16 @@
 
 This is my .ssh/config file. I was able to edit it through VScode by 
 opening the .ssh folder in windows through VScode.
-![change config]()
+
+![change config](edit_config.png)
 
 Then, I was able to log into ieng6 with the ssh command with the alias
 ieng6. This helped speed up either typing my full username, or having
 to search it up.
-![ssh with alias]()
+
+![ssh with alias](login_with_alias_ieng6.png)
 
 Finally, I can upload files to ieng6 with the ssh alias. I uploaded
 a screenshot for this lab report to ieng6 using the shortened command.
-![uploaded file]()
+
+![uploaded file](upload_image.png)
